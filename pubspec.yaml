@@ -1,6 +1,6 @@
 name: simple_dart_pager
 description: Pager Component
-version: 0.0.2
+version: 0.0.3
 repository: https://github.com/simple-dart/pager
 platforms:
   web:
