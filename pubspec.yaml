@@ -12,5 +12,5 @@ environment:
 dependencies:
   simple_dart_image_button: ^0.0.1
   simple_dart_label: ^0.0.1
-  simple_dart_num_field: ^0.0.2
+  simple_dart_num_field: ^0.0.3
   simple_dart_ui_core: ^0.0.2

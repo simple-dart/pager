@@ -1,3 +1,7 @@
+## 0.0.3
+
+- Upgrade NumField to version 0.0.3
+
 ## 0.0.2
 
 - Upgrade NumField to version 0.0.2
